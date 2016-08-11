@@ -1,2 +1,4 @@
 # hello-word
-It is my first time.
+Hi all,
+
+I like R.
